@@ -59,7 +59,7 @@ systemctl start docker
 
 ### Clone repo and change directory
 ```bash
-git clone https://github.com/advanced-web/awp-2-AhmadKazkouzeh.git
+git clone https://github.com/AhmadKazkouzeh/AWP-Laravel
 ```
 
 ```bash
